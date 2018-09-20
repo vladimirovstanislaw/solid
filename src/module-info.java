@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author zstan
+ *
+ */
+module solid {
+}
